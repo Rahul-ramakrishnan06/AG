@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158028254782",
+    "project_id": "agver-ac467",
+    "storage_bucket": "agver-ac467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158028254782:android:9ea7e8ebfa7acb0d588b6f",
+        "android_client_info": {
+          "package_name": "com.example.ag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158028254782-3u1n02nqe9ao8bokgt13dfm5k1sq4mp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ag",
+            "certificate_hash": "90540f2d55a6d554c457e314fe2da44f2c6c43cd"
+          }
+        },
+        {
+          "client_id": "158028254782-16kjcdam540bh8rv00h4m0m33drpdat4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAaMas9YsEjzizQxV5GhqduIBJY9it8Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158028254782-16kjcdam540bh8rv00h4m0m33drpdat4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
